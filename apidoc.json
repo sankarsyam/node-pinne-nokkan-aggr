@@ -1,0 +1,9 @@
+{
+  "name": "Aggregator API",
+  "version": "1.0.0",
+  "description": "API for aggregator service.",
+  "apidoc": {
+    "title": "Aggregator API",
+    "url" : "https://api.github.com/v1"
+  }
+}
